@@ -1,0 +1,34 @@
+.cabeçalho{
+   background-color: rgba(207, 31, 31, 0.815);
+color: darkred;
+display: flex;
+padding: 2%;
+font-size: 24px;
+justify-content: space-around;
+}
+.cabeçalho-imgem{
+width: 10%;
+height: 10%;
+}
+.cabeçalho-item{
+    display: inline-block;
+    font-size: 35px;
+    padding: 0 0 0 30px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.colégio {
+background-color: darkred;
+color: black;
+font-size: 30px;
+padding: 150px 100px;
+}
+.colégio-titulo {
+padding: 24px 0; 
+}
